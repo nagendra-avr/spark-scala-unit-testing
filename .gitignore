@@ -1,0 +1,11 @@
+*.class
+*.log
+
+# sbt specific
+target/
+project/target
+project/project
+project/.idea
+
+#IDE specific
+.idea
